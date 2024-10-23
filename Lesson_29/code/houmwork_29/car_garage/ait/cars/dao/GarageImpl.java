@@ -1,10 +1,10 @@
 package houmwork_29.car_garage.ait.cars.dao;
 
-import houmwork_29.car_garage.ait.cars.model.Car;
+import classwork_28.car_garage.ait.cars.model.Car;
 
 import java.util.function.Predicate;
 
-public class GarageImpl implements Garage {
+public class GarageImpl implements Garage{
 
     private Car[] cars;
     private int size;

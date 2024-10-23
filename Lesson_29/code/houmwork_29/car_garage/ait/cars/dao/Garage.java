@@ -1,6 +1,6 @@
 package houmwork_29.car_garage.ait.cars.dao;
 
-import houmwork_29.car_garage.ait.cars.model.Car;
+import classwork_28.car_garage.ait.cars.model.Car;
 
 public interface Garage {
 

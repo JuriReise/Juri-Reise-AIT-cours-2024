@@ -1,8 +1,9 @@
+
 package houmwork_29.car_garage.ait.cars.model;
 
 import java.util.Objects;
 
-public class Car {
+public class Car implements Comparable<Car> {
 
     private String regNumber;
     private String model;
@@ -49,11 +50,11 @@ public class Car {
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Car{");
-        sb.append("regNumber='").append(regNumber).append('\'');
-        sb.append(", model='").append(model).append('\'');
-        sb.append(", company='").append(company).append('\'');
+        sb.append("regNumber='").append(regNumber).append(''');
+        sb.append(", model='").append(model).append(''');
+        sb.append(", company='").append(company).append(''');
         sb.append(", engine=").append(engine);
-        sb.append(", color='").append(color).append('\'');
+        sb.append(", color='").append(color).append(''');
         sb.append('}');
         return sb.toString();
     }
@@ -70,4 +71,8 @@ public class Car {
         return Objects.hashCode(regNumber);
     }
 
+    @Override
+    public int compareTo(Car car) {
+        return this.getModel().compareTo(car.getModel());
+    }
 }// end of class

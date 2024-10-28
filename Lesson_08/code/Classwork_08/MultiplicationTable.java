@@ -12,8 +12,8 @@ public class MultiplicationTable {
 
         int i = 1, j = 1;
 
-        while ( i < 10){
-            while ( j < 11){
+        while ( i <= 10){
+            while ( j <= 10){
 
                 System.out.print(i + " x " + j + " " + (i*j) + " | ");
                 j++;

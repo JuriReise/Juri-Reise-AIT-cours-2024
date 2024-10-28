@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AIT-TR-Java-Cours-2024.iml" filepath="$PROJECT_DIR$/.idea/AIT-TR-Java-Cours-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Houmwork_32/Houmwork_32.iml" filepath="$PROJECT_DIR$/Houmwork_32/Houmwork_32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Houmwork_Marathon/Houmwork_Marathon.iml" filepath="$PROJECT_DIR$/Houmwork_Marathon/Houmwork_Marathon.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_08/Lesson_08.iml" filepath="$PROJECT_DIR$/Lesson_08/Lesson_08.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_09/Lesson_09.iml" filepath="$PROJECT_DIR$/Lesson_09/Lesson_09.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_11/Lesson_11.iml" filepath="$PROJECT_DIR$/Lesson_11/Lesson_11.iml" />
@@ -25,6 +27,11 @@
       <module fileurl="file://$PROJECT_DIR$/Lesson_28/Lesson_28.iml" filepath="$PROJECT_DIR$/Lesson_28/Lesson_28.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_29/Lesson_29.iml" filepath="$PROJECT_DIR$/Lesson_29/Lesson_29.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_30/Lesson_30.iml" filepath="$PROJECT_DIR$/Lesson_30/Lesson_30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_31/Lesson_31.iml" filepath="$PROJECT_DIR$/Lesson_31/Lesson_31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_32/Lesson_32.iml" filepath="$PROJECT_DIR$/Lesson_32/Lesson_32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_33/Lesson_33.iml" filepath="$PROJECT_DIR$/Lesson_33/Lesson_33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Marathon/Marathon.iml" filepath="$PROJECT_DIR$/Marathon/Marathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Marathon1/Marathon1.iml" filepath="$PROJECT_DIR$/Marathon1/Marathon1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_24/code/code.iml" filepath="$PROJECT_DIR$/Lesson_24/code/code.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_01_intro/lesson_01_intro.iml" filepath="$PROJECT_DIR$/lesson_01_intro/lesson_01_intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_02/lesson_02.iml" filepath="$PROJECT_DIR$/lesson_02/lesson_02.iml" />

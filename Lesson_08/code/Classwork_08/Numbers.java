@@ -8,14 +8,15 @@ public class Numbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int i = 0; // parametrs of Cikle
+        int i = 1; // parametrs of Cikle
         int y = 101; //
 
-        while (i < y) {
-            if (i % 7 == 0) { // 26 % 5 = * 5 +1
+        while (i <= y) {
+            if (i % 6 == 0) { // 26 % 5 = * 5 +1
                 System.out.print(i + " ");
 
-            } // end of IF
+            }
+            // end of IF
             i++;
 
         } // end of loop

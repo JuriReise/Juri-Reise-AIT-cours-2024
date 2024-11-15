@@ -15,7 +15,7 @@ class ToDoListTest {
 
     private ToDoListAppl app;
 
-    @BeforeEach
+@BeforeEach
     public void setUp() {
         app = new ToDoListAppl();  // создаем новый экземпляр перед каждым тестом
     }

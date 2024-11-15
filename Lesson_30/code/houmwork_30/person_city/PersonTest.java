@@ -1,9 +1,10 @@
 
 package houmwork_30.person_city;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.Arrays;
 import java.util.Comparator;
-import org.junit.jupiter.api.Test;
 
 class PersonTest {
 

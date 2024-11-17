@@ -1,6 +1,7 @@
 package Classwork_04;
 
-public class MathMetod {
+public class
+MathMetod {
 
 
 

@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AIT-TR-Java-Cours-2024.iml" filepath="$PROJECT_DIR$/.idea/AIT-TR-Java-Cours-2024.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Garbig/Garbig.iml" filepath="$PROJECT_DIR$/Garbig/Garbig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wiederhollung/Errordemo/Errordemo.iml" filepath="$PROJECT_DIR$/Wiederhollung/Errordemo/Errordemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wiederhollung/Garbig/Garbig.iml" filepath="$PROJECT_DIR$/Wiederhollung/Garbig/Garbig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Houmwork_32/Houmwork_32.iml" filepath="$PROJECT_DIR$/Houmwork_32/Houmwork_32.iml" />
       <module fileurl="file://$PROJECT_DIR$/Houmwork_Marathon/Houmwork_Marathon.iml" filepath="$PROJECT_DIR$/Houmwork_Marathon/Houmwork_Marathon.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_08/Lesson_08.iml" filepath="$PROJECT_DIR$/Lesson_08/Lesson_08.iml" />
@@ -45,8 +46,10 @@
       <module fileurl="file://$PROJECT_DIR$/Lesson_46/Lesson_46.iml" filepath="$PROJECT_DIR$/Lesson_46/Lesson_46.iml" />
       <module fileurl="file://$PROJECT_DIR$/Marathon/Marathon.iml" filepath="$PROJECT_DIR$/Marathon/Marathon.iml" />
       <module fileurl="file://$PROJECT_DIR$/Marathon1/Marathon1.iml" filepath="$PROJECT_DIR$/Marathon1/Marathon1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ServicePac/ServicePac.iml" filepath="$PROJECT_DIR$/ServicePac/ServicePac.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringProbe/StringProbe.iml" filepath="$PROJECT_DIR$/StringProbe/StringProbe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wiederhollung/ServicePac/ServicePac.iml" filepath="$PROJECT_DIR$/Wiederhollung/ServicePac/ServicePac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wiederhollung/StringProbe/StringProbe.iml" filepath="$PROJECT_DIR$/Wiederhollung/StringProbe/StringProbe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wiederhollung/SwitchModul/SwitchModul.iml" filepath="$PROJECT_DIR$/Wiederhollung/SwitchModul/SwitchModul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wiederhollung/Wiederhollung.iml" filepath="$PROJECT_DIR$/Wiederhollung/Wiederhollung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_24/code/code.iml" filepath="$PROJECT_DIR$/Lesson_24/code/code.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_01_intro/lesson_01_intro.iml" filepath="$PROJECT_DIR$/lesson_01_intro/lesson_01_intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_02/lesson_02.iml" filepath="$PROJECT_DIR$/lesson_02/lesson_02.iml" />
@@ -57,7 +60,7 @@
       <module fileurl="file://$PROJECT_DIR$/lesson_07/lesson_07.iml" filepath="$PROJECT_DIR$/lesson_07/lesson_07.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_10/lesson_10.iml" filepath="$PROJECT_DIR$/lesson_10/lesson_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_40/lesson_40.iml" filepath="$PROJECT_DIR$/lesson_40/lesson_40.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wArrayProb/wArrayProb.iml" filepath="$PROJECT_DIR$/wArrayProb/wArrayProb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wiederhollung/wArrayProb/wArrayProb.iml" filepath="$PROJECT_DIR$/Wiederhollung/wArrayProb/wArrayProb.iml" />
     </modules>
   </component>
 </project>

@@ -4,7 +4,7 @@ public class ErrorDemo{
 public static void main(String[] args) {
 int num, deno;
 Scanner input = new Scanner(System.in);
-try {
+        try {
             System.out.print("Please enter the numerator: ");
             num = input.nextInt();
             System.out.print("Please enter the denominator: ");
